@@ -2,4 +2,4 @@
 ![](https://img.shields.io/badge/GGv5-v%201.0-important)
 ![](https://img.shields.io/badge/sky-666-9cf.svg)
 <h1>最简单爬汽车之家</h1>
-![image](https://github.com/sky-666/a-little-freshman/blob/master/img/8b6c8104e.png)
+![IMG](https://github.com/sky-666/a-little-freshman/blob/master/img/8b6c8104e.png)
