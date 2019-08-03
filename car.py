@@ -9,7 +9,6 @@ response.encoding = response.apparent_encoding
 soup = BeautifulSoup(response.text,features="html.parser")
 
 #定位
-# target = soup.find(class_="class") #class标签
 target = soup.find(id="auto-channel-lazyload-article")
 li_list = target.find_all('li')
 
